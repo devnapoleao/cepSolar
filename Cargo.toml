@@ -1,0 +1,14 @@
+[package]
+name = "cepSolar"
+version = "0.1.0"
+edition = "2024"
+
+# Descrição do projeto
+description = "Projeto que busca incidência solar pelo CEP e calcula quantas placas serão necessárias para um orçamento."
+
+# Autor
+authors = ["Napoleão Sousa <contato.napoleao2023@gmail.com>"]
+
+# Informações de licença
+license = "MIT"
+
